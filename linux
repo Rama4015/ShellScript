@@ -57,3 +57,4 @@ Ctrl+D - signal bash that there is no more input
 Ctrl+L - redraw the screen
 Ctrl++ - make text bigger in terminal emulator
 Ctrl+- - make text smaller in terminal emulator
+ 
